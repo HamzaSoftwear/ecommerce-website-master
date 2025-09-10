@@ -25,7 +25,7 @@ It showcases my ability to design attractive layouts, responsive components, and
 ---
 ## 🌐 Demo
 Check out the live demo here:  
-👉 [E-commerce Store on GitHub Pages](https://username.github.io/ecommerce-frontend/)  
+👉 https://ecommerce-website-master-e4765.web.app
 
 ---
 
